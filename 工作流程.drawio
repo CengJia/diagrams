@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-13T06:21:48.855Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="wRki9hpkcJP7dhgeaZXw" version="15.8.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-13T06:28:32.954Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="rVjpoDYPiQIDbpKzXjdi" version="15.8.9" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="3327" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -165,7 +165,7 @@
         <mxCell id="2ZD5GdODbhkUTzI_y2qM-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2ZD5GdODbhkUTzI_y2qM-80" target="2ZD5GdODbhkUTzI_y2qM-82">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2ZD5GdODbhkUTzI_y2qM-80" value="根据数据库中的数据来场景还原" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="2ZD5GdODbhkUTzI_y2qM-80" value="根据数据库中的数据来来驱动场景还原功能" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1595" y="750" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2ZD5GdODbhkUTzI_y2qM-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2ZD5GdODbhkUTzI_y2qM-82" target="2ZD5GdODbhkUTzI_y2qM-88">
@@ -179,8 +179,20 @@
         <mxCell id="2ZD5GdODbhkUTzI_y2qM-82" value="生成UE4的内存图层数据结构" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1595" y="890" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="2ZD5GdODbhkUTzI_y2qM-93" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2ZD5GdODbhkUTzI_y2qM-88" target="2ZD5GdODbhkUTzI_y2qM-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2ZD5GdODbhkUTzI_y2qM-88" value="循环等待命令" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.loop_limit;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1605" y="1080" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2ZD5GdODbhkUTzI_y2qM-95" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2ZD5GdODbhkUTzI_y2qM-92" target="2ZD5GdODbhkUTzI_y2qM-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2ZD5GdODbhkUTzI_y2qM-92" value="可视化请求图层列表" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1320" y="1070" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2ZD5GdODbhkUTzI_y2qM-94" value="返回所有图层，如&lt;span&gt;bim_机柜，&lt;/span&gt;&lt;span&gt;bim图层1，&lt;/span&gt;&lt;span&gt;其他图层&lt;/span&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1125" y="1080" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
