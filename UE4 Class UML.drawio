@@ -1,14 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2021-12-11T11:00:05.490Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="lM3mIQ54hZ0sDD2P9pLe" version="15.8.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-13T01:47:20.483Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="B6AtaQcpjzBDJDlhx9Zt" version="15.8.9" type="github">
   <diagram id="AkcPyndH6maxKv0dhbkd" name="第 1 页">
     <mxGraphModel dx="1185" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="zeVZz8eFkJ2jSE9SBWDc-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="zeVZz8eFkJ2jSE9SBWDc-1" target="zeVZz8eFkJ2jSE9SBWDc-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="zeVZz8eFkJ2jSE9SBWDc-1" value="美术人员将BIM模型导入到UE4编辑器" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="320" y="240" width="160" height="80" as="geometry" />
+        <mxCell id="zeVZz8eFkJ2jSE9SBWDc-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="zeVZz8eFkJ2jSE9SBWDc-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="320" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="zeVZz8eFkJ2jSE9SBWDc-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="zeVZz8eFkJ2jSE9SBWDc-4">
           <mxGeometry relative="1" as="geometry">
@@ -27,8 +26,8 @@
         <mxCell id="zeVZz8eFkJ2jSE9SBWDc-4" value="是否需要使用场景构建平台材质库里面的材质" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="330" y="390" width="140" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="zeVZz8eFkJ2jSE9SBWDc-19" value="方案一：美术人员工作流程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="100" width="120" height="60" as="geometry" />
+        <mxCell id="zeVZz8eFkJ2jSE9SBWDc-19" value="方案一：美术人员工作流程，将BIM图层信息写入到数据库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zeVZz8eFkJ2jSE9SBWDc-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zeVZz8eFkJ2jSE9SBWDc-25" target="zeVZz8eFkJ2jSE9SBWDc-27">
           <mxGeometry relative="1" as="geometry" />
@@ -50,14 +49,28 @@
         <mxCell id="zeVZz8eFkJ2jSE9SBWDc-27" value="在UE中保存材质关系" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="350" y="800" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="zeVZz8eFkJ2jSE9SBWDc-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zeVZz8eFkJ2jSE9SBWDc-32" target="zeVZz8eFkJ2jSE9SBWDc-33">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="zeVZz8eFkJ2jSE9SBWDc-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zeVZz8eFkJ2jSE9SBWDc-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="1360" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="zeVZz8eFkJ2jSE9SBWDc-32" value="数据库写入图层信息和材质功能信息&lt;br&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="350" y="1200" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="zeVZz8eFkJ2jSE9SBWDc-33" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="350" y="1360" width="100" height="100" as="geometry" />
+        <mxCell id="zeVZz8eFkJ2jSE9SBWDc-36" value="WEB端" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="640" y="240" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zeVZz8eFkJ2jSE9SBWDc-38" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="350" y="1360" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zeVZz8eFkJ2jSE9SBWDc-39" value="美术人员将BIM模型导入到UE4编辑器" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="350" y="220" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="zeVZz8eFkJ2jSE9SBWDc-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zeVZz8eFkJ2jSE9SBWDc-40" target="zeVZz8eFkJ2jSE9SBWDc-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zeVZz8eFkJ2jSE9SBWDc-40" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="350" y="90" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
