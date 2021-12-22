@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-22T07:08:02.814Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="C2FWZAq1Q57faWIaTH6R" version="15.9.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-12-22T07:09:17.845Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="-vptm_Ovaodj5PUCTR9X" version="15.9.6" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="BIM导入生成图层信息">
     <mxGraphModel dx="3076" dy="762" grid="1" gridSize="9" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -311,7 +311,7 @@
         <mxCell id="FLkIUX-Sa9f6L92nfGzT-26" value="将解析号的数据抛给主线程" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="lyFSHL-DNkB71ZbNFMZE-1">
           <mxGeometry x="354" y="431" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FLkIUX-Sa9f6L92nfGzT-30" value="抛弃" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="lyFSHL-DNkB71ZbNFMZE-1">
+        <mxCell id="FLkIUX-Sa9f6L92nfGzT-30" value="抛弃这条数据" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="lyFSHL-DNkB71ZbNFMZE-1">
           <mxGeometry x="567" y="271" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FLkIUX-Sa9f6L92nfGzT-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="lyFSHL-DNkB71ZbNFMZE-1" source="FLkIUX-Sa9f6L92nfGzT-43" target="FLkIUX-Sa9f6L92nfGzT-44">
