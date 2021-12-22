@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-22T07:06:36.032Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="_9MqytcwYXz0UIwJ2m2U" version="15.9.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-12-22T07:06:54.190Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="RC5chelFu-HkmBTGb4Dd" version="15.9.6" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="BIM导入生成图层信息">
     <mxGraphModel dx="3076" dy="762" grid="1" gridSize="9" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -341,7 +341,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FLkIUX-Sa9f6L92nfGzT-54" value="&lt;pre style=&quot;background-color: rgb(38 , 38 , 38) ; color: rgb(208 , 208 , 208) ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;&lt;span style=&quot;background-color: rgb(35 , 46 , 70)&quot;&gt;Web端命令是否为&lt;/span&gt;&lt;/pre&gt;&lt;pre style=&quot;background-color: rgb(38 , 38 , 38) ; color: rgb(208 , 208 , 208) ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;&lt;span style=&quot;background-color: rgb(35 , 46 , 70)&quot;&gt;initializeConfig&lt;/span&gt;&lt;/pre&gt;&lt;pre style=&quot;background-color: rgb(38 , 38 , 38) ; color: rgb(208 , 208 , 208) ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;addLayer&lt;/pre&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="lyFSHL-DNkB71ZbNFMZE-1">
-          <mxGeometry x="198" y="-648" width="432" height="144" as="geometry" />
+          <mxGeometry x="324" y="-648" width="180" height="144" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
