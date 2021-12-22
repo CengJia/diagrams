@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-22T10:15:09.049Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="yA1JEn3Xkae5diHVhVAm" version="15.9.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-12-22T10:22:23.779Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="IdwhgUo56CYz2RUd6bBE" version="15.9.6" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="BIM导入生成图层信息">
     <mxGraphModel dx="3327" dy="896" grid="1" gridSize="9" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -290,13 +290,8 @@
         <mxCell id="FLkIUX-Sa9f6L92nfGzT-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="lyFSHL-DNkB71ZbNFMZE-1" source="FLkIUX-Sa9f6L92nfGzT-20" target="FLkIUX-Sa9f6L92nfGzT-62">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FLkIUX-Sa9f6L92nfGzT-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="lyFSHL-DNkB71ZbNFMZE-1" source="FLkIUX-Sa9f6L92nfGzT-20">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="594" y="-356" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="FLkIUX-Sa9f6L92nfGzT-20" value="解析配置" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="lyFSHL-DNkB71ZbNFMZE-1">
-          <mxGeometry x="354" y="-432" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="-432" width="114" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FLkIUX-Sa9f6L92nfGzT-22" value="添加卡夫卡消费者" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="lyFSHL-DNkB71ZbNFMZE-1">
           <mxGeometry x="117" y="-225" width="120" height="60" as="geometry" />
