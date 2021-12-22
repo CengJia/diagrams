@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-22T06:59:23.087Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="gC0YryBamYA4Vz5oOWXJ" version="15.9.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-12-22T07:00:28.032Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="dyfjbLF9NaHrSSSzVn1t" version="15.9.6" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="BIM导入生成图层信息">
     <mxGraphModel dx="3076" dy="762" grid="1" gridSize="9" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -337,10 +337,10 @@
         <mxCell id="FLkIUX-Sa9f6L92nfGzT-50" value="循环等待接收Web端命令" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.loop_limit;whiteSpace=wrap;" vertex="1" parent="lyFSHL-DNkB71ZbNFMZE-1">
           <mxGeometry x="364" y="-738" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FLkIUX-Sa9f6L92nfGzT-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="lyFSHL-DNkB71ZbNFMZE-1" source="FLkIUX-Sa9f6L92nfGzT-54" target="FLkIUX-Sa9f6L92nfGzT-20">
+        <mxCell id="FLkIUX-Sa9f6L92nfGzT-59" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="lyFSHL-DNkB71ZbNFMZE-1" source="FLkIUX-Sa9f6L92nfGzT-54" target="FLkIUX-Sa9f6L92nfGzT-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FLkIUX-Sa9f6L92nfGzT-54" value="&lt;pre style=&quot;background-color: rgb(38 , 38 , 38) ; color: rgb(208 , 208 , 208) ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;&lt;span style=&quot;background-color: rgb(35 , 46 , 70)&quot;&gt;initializeConfig&lt;/span&gt;&lt;/pre&gt;&lt;pre style=&quot;background-color: rgb(38 , 38 , 38) ; color: rgb(208 , 208 , 208) ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;addLayer&lt;/pre&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="lyFSHL-DNkB71ZbNFMZE-1">
+        <mxCell id="FLkIUX-Sa9f6L92nfGzT-54" value="&lt;pre style=&quot;background-color: rgb(38 , 38 , 38) ; color: rgb(208 , 208 , 208) ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;&lt;span style=&quot;background-color: rgb(35 , 46 , 70)&quot;&gt;是否为&lt;/span&gt;&lt;/pre&gt;&lt;pre style=&quot;background-color: rgb(38 , 38 , 38) ; color: rgb(208 , 208 , 208) ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;&lt;span style=&quot;background-color: rgb(35 , 46 , 70)&quot;&gt;initializeConfig&lt;/span&gt;&lt;/pre&gt;&lt;pre style=&quot;background-color: rgb(38 , 38 , 38) ; color: rgb(208 , 208 , 208) ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;addLayer&lt;/pre&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="lyFSHL-DNkB71ZbNFMZE-1">
           <mxGeometry x="374" y="-608" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
