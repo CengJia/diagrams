@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-22T07:06:54.190Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="RC5chelFu-HkmBTGb4Dd" version="15.9.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-12-22T07:08:02.814Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="C2FWZAq1Q57faWIaTH6R" version="15.9.6" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="BIM导入生成图层信息">
     <mxGraphModel dx="3076" dy="762" grid="1" gridSize="9" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -305,7 +305,10 @@
         <mxCell id="FLkIUX-Sa9f6L92nfGzT-24" value="判断初始化配置否有是否有这个图层" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="lyFSHL-DNkB71ZbNFMZE-1">
           <mxGeometry x="360" y="261" width="108" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="FLkIUX-Sa9f6L92nfGzT-26" value="更新元素状态（包含生成、更新位置、删除状态）" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="lyFSHL-DNkB71ZbNFMZE-1">
+        <mxCell id="FLkIUX-Sa9f6L92nfGzT-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="lyFSHL-DNkB71ZbNFMZE-1" source="FLkIUX-Sa9f6L92nfGzT-26" target="FLkIUX-Sa9f6L92nfGzT-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FLkIUX-Sa9f6L92nfGzT-26" value="将解析号的数据抛给主线程" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="lyFSHL-DNkB71ZbNFMZE-1">
           <mxGeometry x="354" y="431" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FLkIUX-Sa9f6L92nfGzT-30" value="抛弃" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="lyFSHL-DNkB71ZbNFMZE-1">
@@ -342,6 +345,9 @@
         </mxCell>
         <mxCell id="FLkIUX-Sa9f6L92nfGzT-54" value="&lt;pre style=&quot;background-color: rgb(38 , 38 , 38) ; color: rgb(208 , 208 , 208) ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;&lt;span style=&quot;background-color: rgb(35 , 46 , 70)&quot;&gt;Web端命令是否为&lt;/span&gt;&lt;/pre&gt;&lt;pre style=&quot;background-color: rgb(38 , 38 , 38) ; color: rgb(208 , 208 , 208) ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;&lt;span style=&quot;background-color: rgb(35 , 46 , 70)&quot;&gt;initializeConfig&lt;/span&gt;&lt;/pre&gt;&lt;pre style=&quot;background-color: rgb(38 , 38 , 38) ; color: rgb(208 , 208 , 208) ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;addLayer&lt;/pre&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="lyFSHL-DNkB71ZbNFMZE-1">
           <mxGeometry x="324" y="-648" width="180" height="144" as="geometry" />
+        </mxCell>
+        <mxCell id="FLkIUX-Sa9f6L92nfGzT-60" value="&lt;span&gt;主线程更新元素状态（包含生成、更新位置、删除状态）&lt;/span&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="lyFSHL-DNkB71ZbNFMZE-1">
+          <mxGeometry x="354" y="571" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
