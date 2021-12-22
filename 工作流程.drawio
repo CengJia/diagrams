@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-22T06:58:00.774Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="JICtVWKsBziqTHGsUd_z" version="15.9.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-12-22T06:59:23.087Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="gC0YryBamYA4Vz5oOWXJ" version="15.9.6" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="BIM导入生成图层信息">
     <mxGraphModel dx="3076" dy="762" grid="1" gridSize="9" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -272,7 +272,7 @@
         <mxCell id="FLkIUX-Sa9f6L92nfGzT-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="lyFSHL-DNkB71ZbNFMZE-1" source="FLkIUX-Sa9f6L92nfGzT-15" target="FLkIUX-Sa9f6L92nfGzT-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FLkIUX-Sa9f6L92nfGzT-15" value="循环接受数据" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.loop_limit;whiteSpace=wrap;" vertex="1" parent="lyFSHL-DNkB71ZbNFMZE-1">
+        <mxCell id="FLkIUX-Sa9f6L92nfGzT-15" value="另一个线程&lt;br&gt;循环接收卡夫卡数据" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.loop_limit;whiteSpace=wrap;" vertex="1" parent="lyFSHL-DNkB71ZbNFMZE-1">
           <mxGeometry x="364" y="-149" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FLkIUX-Sa9f6L92nfGzT-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="lyFSHL-DNkB71ZbNFMZE-1" source="FLkIUX-Sa9f6L92nfGzT-16" target="FLkIUX-Sa9f6L92nfGzT-18">
@@ -305,7 +305,7 @@
         <mxCell id="FLkIUX-Sa9f6L92nfGzT-24" value="判断数据是否有是否有这个图层" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="lyFSHL-DNkB71ZbNFMZE-1">
           <mxGeometry x="324" y="261" width="180" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="FLkIUX-Sa9f6L92nfGzT-26" value="更新或者元素状态" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="lyFSHL-DNkB71ZbNFMZE-1">
+        <mxCell id="FLkIUX-Sa9f6L92nfGzT-26" value="更新元素状态（包含生成、更新位置、删除状态）" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="lyFSHL-DNkB71ZbNFMZE-1">
           <mxGeometry x="354" y="431" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FLkIUX-Sa9f6L92nfGzT-30" value="抛弃" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="lyFSHL-DNkB71ZbNFMZE-1">
