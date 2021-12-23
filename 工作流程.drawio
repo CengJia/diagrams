@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-23T03:40:58.929Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="9I32cZmHU9OkjPFJsv6l" version="16.0.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-12-23T03:53:55.934Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="dzkX9_qInhaq9NIZxtvv" version="16.0.3" type="github" pages="4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="BIM导入生成图层信息">
     <mxGraphModel dx="3716" dy="1122" grid="1" gridSize="9" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -353,7 +353,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="3ZHiPYB7j2dZCny19g73" name="任务表">
-    <mxGraphModel dx="2062" dy="1122" grid="1" gridSize="9" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2889" dy="1122" grid="1" gridSize="9" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="KwVwXdJV1dT2S6XFf1-_-0" />
         <mxCell id="KwVwXdJV1dT2S6XFf1-_-1" parent="KwVwXdJV1dT2S6XFf1-_-0" />
@@ -375,8 +375,8 @@
         <mxCell id="KwVwXdJV1dT2S6XFf1-_-43" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" source="KwVwXdJV1dT2S6XFf1-_-37" target="KwVwXdJV1dT2S6XFf1-_-42" parent="KwVwXdJV1dT2S6XFf1-_-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KwVwXdJV1dT2S6XFf1-_-48" value="构建平台" style="rounded=1;" vertex="1" parent="KwVwXdJV1dT2S6XFf1-_-1">
-          <mxGeometry y="208" width="80" height="30" as="geometry" />
+        <mxCell id="KwVwXdJV1dT2S6XFf1-_-48" value="模型库、材质库&#xa;添加虚拟文件夹&#xa;映射UE4相对文件夹。&#xa;提交映射关系并在数据库directory表&#xa;生成一条数据&#xa;" style="rounded=1;" vertex="1" parent="KwVwXdJV1dT2S6XFf1-_-1">
+          <mxGeometry x="-45" y="180" width="170" height="94" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
