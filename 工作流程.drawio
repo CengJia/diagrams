@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-24T02:13:19.376Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="ktao5_65J14urOZcuFj2" version="16.0.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-12-24T02:17:21.701Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="uYAwcbHa3zgZDRF7w8gf" version="16.0.3" type="github" pages="4">
   <diagram id="3ZHiPYB7j2dZCny19g73" name="任务表">
     <mxGraphModel dx="3130" dy="1964" grid="1" gridSize="9" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -624,7 +624,7 @@
         <mxCell id="z_gL1lCXlqAW35nZ5VQg-390" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;sketch=0;fontFamily=Helvetica;fontSize=11;fontColor=#F0F0F0;startSize=0;strokeColor=default;strokeWidth=2;align=left;" vertex="1" parent="z_gL1lCXlqAW35nZ5VQg-361">
           <mxGeometry y="400" width="827" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="z_gL1lCXlqAW35nZ5VQg-391" value="场景还原（UE4运行时根据数据位置）" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#1ba1e2;top=0;left=0;bottom=0;right=0;pointerEvents=1;rounded=0;shadow=0;sketch=0;fontFamily=Helvetica;fontSize=11;fontColor=#ffffff;startSize=0;strokeColor=#006EAF;strokeWidth=2;align=left;" vertex="1" parent="z_gL1lCXlqAW35nZ5VQg-390">
+        <mxCell id="z_gL1lCXlqAW35nZ5VQg-391" value="场景还原（UE4运行时根据数据信息动态生成StaticMeshActor）" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#1ba1e2;top=0;left=0;bottom=0;right=0;pointerEvents=1;rounded=0;shadow=0;sketch=0;fontFamily=Helvetica;fontSize=11;fontColor=#ffffff;startSize=0;strokeColor=#006EAF;strokeWidth=2;align=left;" vertex="1" parent="z_gL1lCXlqAW35nZ5VQg-390">
           <mxGeometry width="611" height="40" as="geometry">
             <mxRectangle width="611" height="40" as="alternateBounds" />
           </mxGeometry>
