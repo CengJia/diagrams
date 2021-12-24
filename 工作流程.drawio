@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-24T02:17:35.884Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="7OdFPgeWcZalh9bzq8k0" version="16.0.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-12-24T02:27:10.606Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="y19gl_jgwOxxZ5tZONrk" version="16.0.3" type="github" pages="4">
   <diagram id="3ZHiPYB7j2dZCny19g73" name="任务表">
-    <mxGraphModel dx="3130" dy="1964" grid="1" gridSize="9" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2894" dy="1837" grid="1" gridSize="9" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="KwVwXdJV1dT2S6XFf1-_-0" />
         <mxCell id="KwVwXdJV1dT2S6XFf1-_-1" parent="KwVwXdJV1dT2S6XFf1-_-0" />
@@ -242,7 +242,7 @@
         <mxCell id="z_gL1lCXlqAW35nZ5VQg-175" style="shape=partialRectangle;collapsible=0;dropTarget=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;sketch=0;fontFamily=Helvetica;fontSize=11;fontColor=default;startSize=0;strokeColor=default;strokeWidth=1;align=left;" vertex="1" parent="z_gL1lCXlqAW35nZ5VQg-162">
           <mxGeometry y="355" width="848" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="z_gL1lCXlqAW35nZ5VQg-176" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;rounded=0;shadow=0;sketch=0;fontFamily=Helvetica;fontSize=11;fontColor=default;startSize=0;strokeColor=default;strokeWidth=1;align=left;" vertex="1" parent="z_gL1lCXlqAW35nZ5VQg-175">
+        <mxCell id="z_gL1lCXlqAW35nZ5VQg-176" value="输入映射跟云平台插件关联" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;rounded=0;shadow=0;sketch=0;fontFamily=Helvetica;fontSize=11;fontColor=default;startSize=0;strokeColor=default;strokeWidth=1;align=left;" vertex="1" parent="z_gL1lCXlqAW35nZ5VQg-175">
           <mxGeometry width="615" height="44" as="geometry">
             <mxRectangle width="615" height="44" as="alternateBounds" />
           </mxGeometry>
