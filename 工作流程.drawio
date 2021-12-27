@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-27T03:48:44.618Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="fGNiCJoaI-AqsmxdnzbU" version="16.0.3" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-12-27T03:49:30.130Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="sLMBo4hkLTNZDvly2w7y" version="16.0.3" type="github" pages="7">
   <diagram id="3ZHiPYB7j2dZCny19g73" name="任务表">
     <mxGraphModel dx="2946" dy="696" grid="1" gridSize="9" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1271,7 +1271,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="NqeenME5x2lHI4yUz4lD" name="构建平台">
-    <mxGraphModel dx="886" dy="477" grid="1" gridSize="9" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1292" dy="696" grid="1" gridSize="9" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="sd04ZcGO04d0r4a4xyYC-0" />
         <mxCell id="sd04ZcGO04d0r4a4xyYC-1" parent="sd04ZcGO04d0r4a4xyYC-0" />
@@ -1474,7 +1474,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6AfAgsEVWo-XAAioYMO1-6" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="sd04ZcGO04d0r4a4xyYC-1">
-          <mxGeometry x="1026" y="36.5" width="486" height="200" as="geometry" />
+          <mxGeometry x="963" width="486" height="200" as="geometry" />
         </mxCell>
         <mxCell id="6AfAgsEVWo-XAAioYMO1-15" style="shape=partialRectangle;collapsible=0;dropTarget=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Helvetica;fontSize=12;fontColor=default;startSize=0;strokeColor=default;" vertex="1" parent="6AfAgsEVWo-XAAioYMO1-6">
           <mxGeometry width="486" height="40" as="geometry" />
@@ -1516,7 +1516,7 @@
             <mxRectangle width="486" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LlQl31z93xFyLyv7lnyT-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;startSize=0;" edge="1" parent="sd04ZcGO04d0r4a4xyYC-1" source="cbT5tKPhNns-2JHrHQaH-19" target="6AfAgsEVWo-XAAioYMO1-6">
+        <mxCell id="LlQl31z93xFyLyv7lnyT-0" style="edgeStyle=elbowEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;startSize=0;" edge="1" parent="sd04ZcGO04d0r4a4xyYC-1" source="cbT5tKPhNns-2JHrHQaH-19" target="6AfAgsEVWo-XAAioYMO1-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
