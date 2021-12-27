@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-24T10:26:20.314Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="FoxlAXGLDnI0PAEGb7ZS" version="16.0.3" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-12-27T02:11:22.757Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="kMicVudFxr1cmobb-WlQ" version="16.0.3" type="github" pages="7">
   <diagram id="3ZHiPYB7j2dZCny19g73" name="任务表">
     <mxGraphModel dx="3204" dy="2004" grid="1" gridSize="9" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1320,7 +1320,7 @@
         <mxCell id="cbT5tKPhNns-2JHrHQaH-19" style="shape=partialRectangle;collapsible=0;dropTarget=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="cbT5tKPhNns-2JHrHQaH-0">
           <mxGeometry y="117" width="827" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="cbT5tKPhNns-2JHrHQaH-20" value="构建平台新建虚拟文件夹并映射UE4真实相对路径，并将该关系写入到数据库" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="cbT5tKPhNns-2JHrHQaH-19">
+        <mxCell id="cbT5tKPhNns-2JHrHQaH-20" value="构建平台新建虚拟文件夹并映射UE4真实相对路径，并将该关系写入到数据库" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#6a00ff;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="cbT5tKPhNns-2JHrHQaH-19">
           <mxGeometry width="783" height="39" as="geometry">
             <mxRectangle width="783" height="39" as="alternateBounds" />
           </mxGeometry>
@@ -1346,7 +1346,7 @@
         <mxCell id="Wujrla6QMGqbmoWLRPmj-18" style="shape=partialRectangle;collapsible=0;dropTarget=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="cbT5tKPhNns-2JHrHQaH-0">
           <mxGeometry y="195" width="827" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="Wujrla6QMGqbmoWLRPmj-19" value="BIM图层搜索，输入名字后，定位到BIM图层或者BIM图层要素" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Wujrla6QMGqbmoWLRPmj-18">
+        <mxCell id="Wujrla6QMGqbmoWLRPmj-19" value="BIM图层搜索，输入名字后，定位到BIM图层或者BIM图层要素" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#6a00ff;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="Wujrla6QMGqbmoWLRPmj-18">
           <mxGeometry width="783" height="39" as="geometry">
             <mxRectangle width="783" height="39" as="alternateBounds" />
           </mxGeometry>
@@ -1450,7 +1450,7 @@
         <mxCell id="Wujrla6QMGqbmoWLRPmj-6" style="shape=partialRectangle;collapsible=0;dropTarget=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="cbT5tKPhNns-2JHrHQaH-0">
           <mxGeometry y="507" width="827" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="Wujrla6QMGqbmoWLRPmj-7" value="根据图层获取数据库元素列表，要素信息包含模型路径，位置、旋转、缩放、材质" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Wujrla6QMGqbmoWLRPmj-6">
+        <mxCell id="Wujrla6QMGqbmoWLRPmj-7" value="根据图层获取数据库元素列表，要素信息包含模型路径，位置、旋转、缩放、材质" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#60a917;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="Wujrla6QMGqbmoWLRPmj-6">
           <mxGeometry width="783" height="39" as="geometry">
             <mxRectangle width="783" height="39" as="alternateBounds" />
           </mxGeometry>
@@ -1463,7 +1463,7 @@
         <mxCell id="Wujrla6QMGqbmoWLRPmj-3" style="shape=partialRectangle;collapsible=0;dropTarget=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="cbT5tKPhNns-2JHrHQaH-0">
           <mxGeometry y="546" width="827" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="Wujrla6QMGqbmoWLRPmj-4" value="根据数据生成StaticMeshActor，并将Actor指针存入TMap图层" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Wujrla6QMGqbmoWLRPmj-3">
+        <mxCell id="Wujrla6QMGqbmoWLRPmj-4" value="根据数据生成StaticMeshActor，并将Actor指针存入TMap图层" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#60a917;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="Wujrla6QMGqbmoWLRPmj-3">
           <mxGeometry width="783" height="39" as="geometry">
             <mxRectangle width="783" height="39" as="alternateBounds" />
           </mxGeometry>
