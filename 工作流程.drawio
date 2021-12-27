@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-27T02:59:56.161Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="9QNhwsg9D17ZBwPkuME6" version="16.0.3" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-12-27T03:48:44.618Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="fGNiCJoaI-AqsmxdnzbU" version="16.0.3" type="github" pages="7">
   <diagram id="3ZHiPYB7j2dZCny19g73" name="任务表">
     <mxGraphModel dx="2946" dy="696" grid="1" gridSize="9" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1271,7 +1271,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="NqeenME5x2lHI4yUz4lD" name="构建平台">
-    <mxGraphModel dx="1292" dy="696" grid="1" gridSize="9" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="886" dy="477" grid="1" gridSize="9" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="sd04ZcGO04d0r4a4xyYC-0" />
         <mxCell id="sd04ZcGO04d0r4a4xyYC-1" parent="sd04ZcGO04d0r4a4xyYC-0" />
@@ -1281,7 +1281,7 @@
         <mxCell id="cbT5tKPhNns-2JHrHQaH-1" style="shape=partialRectangle;collapsible=0;dropTarget=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="cbT5tKPhNns-2JHrHQaH-0">
           <mxGeometry width="827" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="cbT5tKPhNns-2JHrHQaH-2" value="构建平台任务名称，蓝色代表模块，紫色代表进行中的任务，黑色代表未开始" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="cbT5tKPhNns-2JHrHQaH-1">
+        <mxCell id="cbT5tKPhNns-2JHrHQaH-2" value="构建平台任务名称，蓝色代表模块，紫色代表进行中的任务，黑色代表未开始，绿色代表已完成" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="cbT5tKPhNns-2JHrHQaH-1">
           <mxGeometry width="783" height="39" as="geometry">
             <mxRectangle width="783" height="39" as="alternateBounds" />
           </mxGeometry>
@@ -1473,13 +1473,50 @@
             <mxRectangle width="44" height="39" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MxocCET0xsjufSJOuZH5-0" value="是否要新加库？（和通用库、企业库、行业库同级）" style="ellipse" vertex="1" parent="sd04ZcGO04d0r4a4xyYC-1">
-          <mxGeometry x="981" y="279" width="80" height="30" as="geometry" />
+        <mxCell id="6AfAgsEVWo-XAAioYMO1-6" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="sd04ZcGO04d0r4a4xyYC-1">
+          <mxGeometry x="1026" y="36.5" width="486" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="MxocCET0xsjufSJOuZH5-1" value="Entry" style="rounded=1;" vertex="1" parent="sd04ZcGO04d0r4a4xyYC-1">
-          <mxGeometry x="981" y="359" width="80" height="30" as="geometry" />
+        <mxCell id="6AfAgsEVWo-XAAioYMO1-15" style="shape=partialRectangle;collapsible=0;dropTarget=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Helvetica;fontSize=12;fontColor=default;startSize=0;strokeColor=default;" vertex="1" parent="6AfAgsEVWo-XAAioYMO1-6">
+          <mxGeometry width="486" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="MxocCET0xsjufSJOuZH5-2" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" source="MxocCET0xsjufSJOuZH5-0" target="MxocCET0xsjufSJOuZH5-1" parent="sd04ZcGO04d0r4a4xyYC-1">
+        <mxCell id="6AfAgsEVWo-XAAioYMO1-16" value="新建增加库操作UI、新建增加分类UI" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Helvetica;fontSize=12;fontColor=default;startSize=0;strokeColor=default;" vertex="1" parent="6AfAgsEVWo-XAAioYMO1-15">
+          <mxGeometry width="486" height="40" as="geometry">
+            <mxRectangle width="486" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6AfAgsEVWo-XAAioYMO1-7" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Helvetica;fontSize=12;fontColor=default;startSize=0;strokeColor=default;" vertex="1" parent="6AfAgsEVWo-XAAioYMO1-6">
+          <mxGeometry y="40" width="486" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6AfAgsEVWo-XAAioYMO1-8" value="在数新建库的虚拟文件夹" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Helvetica;fontSize=12;fontColor=default;startSize=0;strokeColor=default;" vertex="1" parent="6AfAgsEVWo-XAAioYMO1-7">
+          <mxGeometry width="486" height="40" as="geometry">
+            <mxRectangle width="486" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6AfAgsEVWo-XAAioYMO1-9" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Helvetica;fontSize=12;fontColor=default;startSize=0;strokeColor=default;" vertex="1" parent="6AfAgsEVWo-XAAioYMO1-6">
+          <mxGeometry y="80" width="486" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6AfAgsEVWo-XAAioYMO1-10" value="类型虚拟文件夹映射UE4路径" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Helvetica;fontSize=12;fontColor=default;startSize=0;strokeColor=default;" vertex="1" parent="6AfAgsEVWo-XAAioYMO1-9">
+          <mxGeometry width="486" height="40" as="geometry">
+            <mxRectangle width="486" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6AfAgsEVWo-XAAioYMO1-11" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Helvetica;fontSize=12;fontColor=default;startSize=0;strokeColor=default;" vertex="1" parent="6AfAgsEVWo-XAAioYMO1-6">
+          <mxGeometry y="120" width="486" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6AfAgsEVWo-XAAioYMO1-12" value="同步到数据库时候新建一个新的库或者旋转旧的库" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Helvetica;fontSize=12;fontColor=default;startSize=0;strokeColor=default;" vertex="1" parent="6AfAgsEVWo-XAAioYMO1-11">
+          <mxGeometry width="486" height="40" as="geometry">
+            <mxRectangle width="486" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6AfAgsEVWo-XAAioYMO1-13" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Helvetica;fontSize=12;fontColor=default;startSize=0;strokeColor=default;" vertex="1" parent="6AfAgsEVWo-XAAioYMO1-6">
+          <mxGeometry y="160" width="486" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6AfAgsEVWo-XAAioYMO1-14" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontFamily=Helvetica;fontSize=12;fontColor=default;startSize=0;strokeColor=default;" vertex="1" parent="6AfAgsEVWo-XAAioYMO1-13">
+          <mxGeometry width="486" height="40" as="geometry">
+            <mxRectangle width="486" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LlQl31z93xFyLyv7lnyT-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;startSize=0;" edge="1" parent="sd04ZcGO04d0r4a4xyYC-1" source="cbT5tKPhNns-2JHrHQaH-19" target="6AfAgsEVWo-XAAioYMO1-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
