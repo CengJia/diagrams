@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-27T03:52:09.501Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="2IL-gEn-B4lU-_uIdSlv" version="16.0.3" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-12-27T05:44:51.274Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="I-sYK2itCPgZnBBTsyZ0" version="16.0.3" type="github" pages="7">
   <diagram id="3ZHiPYB7j2dZCny19g73" name="任务表">
     <mxGraphModel dx="2946" dy="696" grid="1" gridSize="9" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1276,7 +1276,7 @@
         <mxCell id="sd04ZcGO04d0r4a4xyYC-0" />
         <mxCell id="sd04ZcGO04d0r4a4xyYC-1" parent="sd04ZcGO04d0r4a4xyYC-0" />
         <mxCell id="cbT5tKPhNns-2JHrHQaH-0" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fillColor=default;align=left;" vertex="1" parent="sd04ZcGO04d0r4a4xyYC-1">
-          <mxGeometry width="827" height="585" as="geometry" />
+          <mxGeometry width="827" height="624" as="geometry" />
         </mxCell>
         <mxCell id="cbT5tKPhNns-2JHrHQaH-1" style="shape=partialRectangle;collapsible=0;dropTarget=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="cbT5tKPhNns-2JHrHQaH-0">
           <mxGeometry width="827" height="39" as="geometry" />
@@ -1320,7 +1320,7 @@
         <mxCell id="cbT5tKPhNns-2JHrHQaH-19" style="shape=partialRectangle;collapsible=0;dropTarget=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="cbT5tKPhNns-2JHrHQaH-0">
           <mxGeometry y="117" width="827" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="cbT5tKPhNns-2JHrHQaH-20" value="构建平台新建虚拟文件夹并映射UE4真实相对路径，并将该关系写入到数据库" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#6a00ff;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="cbT5tKPhNns-2JHrHQaH-19">
+        <mxCell id="cbT5tKPhNns-2JHrHQaH-20" value="构建平台模型库添加添一级目录（库，比如通用库、企业库），二级目录（分类，比如植物、人物），同步数据到数据库" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="cbT5tKPhNns-2JHrHQaH-19">
           <mxGeometry width="783" height="39" as="geometry">
             <mxRectangle width="783" height="39" as="alternateBounds" />
           </mxGeometry>
@@ -1330,8 +1330,21 @@
             <mxRectangle width="44" height="39" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cbT5tKPhNns-2JHrHQaH-25" style="shape=partialRectangle;collapsible=0;dropTarget=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="cbT5tKPhNns-2JHrHQaH-0">
+        <mxCell id="3mmddQ8fIv7Eh7SYsy2y-5" style="shape=partialRectangle;collapsible=0;dropTarget=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="cbT5tKPhNns-2JHrHQaH-0">
           <mxGeometry y="156" width="827" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="3mmddQ8fIv7Eh7SYsy2y-6" value="&lt;span&gt;构建平台材质库添加添一级目录（库，比如通用库、企业库），二级目录（分类，比如木头、石头），同步数据到数据库&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=default;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="3mmddQ8fIv7Eh7SYsy2y-5">
+          <mxGeometry width="783" height="39" as="geometry">
+            <mxRectangle width="783" height="39" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3mmddQ8fIv7Eh7SYsy2y-7" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="3mmddQ8fIv7Eh7SYsy2y-5">
+          <mxGeometry x="783" width="44" height="39" as="geometry">
+            <mxRectangle width="44" height="39" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cbT5tKPhNns-2JHrHQaH-25" style="shape=partialRectangle;collapsible=0;dropTarget=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="cbT5tKPhNns-2JHrHQaH-0">
+          <mxGeometry y="195" width="827" height="39" as="geometry" />
         </mxCell>
         <mxCell id="cbT5tKPhNns-2JHrHQaH-26" value="图层操作" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#1ba1e2;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="cbT5tKPhNns-2JHrHQaH-25">
           <mxGeometry width="783" height="39" as="geometry">
@@ -1344,7 +1357,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Wujrla6QMGqbmoWLRPmj-18" style="shape=partialRectangle;collapsible=0;dropTarget=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="cbT5tKPhNns-2JHrHQaH-0">
-          <mxGeometry y="195" width="827" height="39" as="geometry" />
+          <mxGeometry y="234" width="827" height="39" as="geometry" />
         </mxCell>
         <mxCell id="Wujrla6QMGqbmoWLRPmj-19" value="BIM图层搜索，输入名字后，定位到BIM图层或者BIM图层要素" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#6a00ff;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="Wujrla6QMGqbmoWLRPmj-18">
           <mxGeometry width="783" height="39" as="geometry">
@@ -1357,7 +1370,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Wujrla6QMGqbmoWLRPmj-15" style="shape=partialRectangle;collapsible=0;dropTarget=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="cbT5tKPhNns-2JHrHQaH-0">
-          <mxGeometry y="234" width="827" height="39" as="geometry" />
+          <mxGeometry y="273" width="827" height="39" as="geometry" />
         </mxCell>
         <mxCell id="Wujrla6QMGqbmoWLRPmj-16" value="拉取数据库图层信息以同步数据" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Wujrla6QMGqbmoWLRPmj-15">
           <mxGeometry width="783" height="39" as="geometry">
@@ -1370,7 +1383,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xaDbc38BCF-GQfiHVFoG-3" style="shape=partialRectangle;collapsible=0;dropTarget=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="cbT5tKPhNns-2JHrHQaH-0">
-          <mxGeometry y="273" width="827" height="39" as="geometry" />
+          <mxGeometry y="312" width="827" height="39" as="geometry" />
         </mxCell>
         <mxCell id="xaDbc38BCF-GQfiHVFoG-4" value="新建图层、删除图层（删除图层后，子元素需要不需要删除？待定）、修改图层名字（可能）" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="xaDbc38BCF-GQfiHVFoG-3">
           <mxGeometry width="783" height="39" as="geometry">
@@ -1383,7 +1396,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xaDbc38BCF-GQfiHVFoG-0" style="shape=partialRectangle;collapsible=0;dropTarget=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="cbT5tKPhNns-2JHrHQaH-0">
-          <mxGeometry y="312" width="827" height="39" as="geometry" />
+          <mxGeometry y="351" width="827" height="39" as="geometry" />
         </mxCell>
         <mxCell id="xaDbc38BCF-GQfiHVFoG-1" value="构建平台拖入模型到世界中去在，选中的图层添加这个元素" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="xaDbc38BCF-GQfiHVFoG-0">
           <mxGeometry width="783" height="39" as="geometry">
@@ -1396,7 +1409,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="X0veCC_Fb05H5u2blV3Y-3" style="shape=partialRectangle;collapsible=0;dropTarget=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="cbT5tKPhNns-2JHrHQaH-0">
-          <mxGeometry y="351" width="827" height="39" as="geometry" />
+          <mxGeometry y="390" width="827" height="39" as="geometry" />
         </mxCell>
         <mxCell id="X0veCC_Fb05H5u2blV3Y-4" value="保存图层和要素信息到数据库（数据结构暂时为一层树结构），要素信息包含模型路径，位置、旋转、缩放、材质" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="X0veCC_Fb05H5u2blV3Y-3">
           <mxGeometry width="783" height="39" as="geometry">
@@ -1409,7 +1422,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="X0veCC_Fb05H5u2blV3Y-0" style="shape=partialRectangle;collapsible=0;dropTarget=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="cbT5tKPhNns-2JHrHQaH-0">
-          <mxGeometry y="390" width="827" height="39" as="geometry" />
+          <mxGeometry y="429" width="827" height="39" as="geometry" />
         </mxCell>
         <mxCell id="X0veCC_Fb05H5u2blV3Y-1" value="批量替换某图层下的所有元素材质" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="X0veCC_Fb05H5u2blV3Y-0">
           <mxGeometry width="783" height="39" as="geometry">
@@ -1422,7 +1435,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Wujrla6QMGqbmoWLRPmj-12" style="shape=partialRectangle;collapsible=0;dropTarget=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="cbT5tKPhNns-2JHrHQaH-0">
-          <mxGeometry y="429" width="827" height="39" as="geometry" />
+          <mxGeometry y="468" width="827" height="39" as="geometry" />
         </mxCell>
         <mxCell id="Wujrla6QMGqbmoWLRPmj-13" value="场景还原" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#1ba1e2;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="Wujrla6QMGqbmoWLRPmj-12">
           <mxGeometry width="783" height="39" as="geometry">
@@ -1435,7 +1448,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Wujrla6QMGqbmoWLRPmj-9" style="shape=partialRectangle;collapsible=0;dropTarget=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="cbT5tKPhNns-2JHrHQaH-0">
-          <mxGeometry y="468" width="827" height="39" as="geometry" />
+          <mxGeometry y="507" width="827" height="39" as="geometry" />
         </mxCell>
         <mxCell id="Wujrla6QMGqbmoWLRPmj-10" value="读取数据库图层信息。" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="Wujrla6QMGqbmoWLRPmj-9">
           <mxGeometry width="783" height="39" as="geometry">
@@ -1448,7 +1461,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Wujrla6QMGqbmoWLRPmj-6" style="shape=partialRectangle;collapsible=0;dropTarget=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="cbT5tKPhNns-2JHrHQaH-0">
-          <mxGeometry y="507" width="827" height="39" as="geometry" />
+          <mxGeometry y="546" width="827" height="39" as="geometry" />
         </mxCell>
         <mxCell id="Wujrla6QMGqbmoWLRPmj-7" value="根据图层获取数据库元素列表，要素信息包含模型路径，位置、旋转、缩放、材质" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#60a917;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="Wujrla6QMGqbmoWLRPmj-6">
           <mxGeometry width="783" height="39" as="geometry">
@@ -1461,7 +1474,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Wujrla6QMGqbmoWLRPmj-3" style="shape=partialRectangle;collapsible=0;dropTarget=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="cbT5tKPhNns-2JHrHQaH-0">
-          <mxGeometry y="546" width="827" height="39" as="geometry" />
+          <mxGeometry y="585" width="827" height="39" as="geometry" />
         </mxCell>
         <mxCell id="Wujrla6QMGqbmoWLRPmj-4" value="根据数据生成StaticMeshActor，并将Actor指针存入TMap图层" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#60a917;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="Wujrla6QMGqbmoWLRPmj-3">
           <mxGeometry width="783" height="39" as="geometry">
@@ -1474,7 +1487,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6AfAgsEVWo-XAAioYMO1-6" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="sd04ZcGO04d0r4a4xyYC-1">
-          <mxGeometry x="954" width="486" height="200" as="geometry" />
+          <mxGeometry x="1449" y="36.5" width="486" height="200" as="geometry" />
         </mxCell>
         <mxCell id="6AfAgsEVWo-XAAioYMO1-15" style="shape=partialRectangle;collapsible=0;dropTarget=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Helvetica;fontSize=12;fontColor=default;startSize=0;strokeColor=default;" vertex="1" parent="6AfAgsEVWo-XAAioYMO1-6">
           <mxGeometry width="486" height="40" as="geometry" />
@@ -1517,6 +1530,21 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LlQl31z93xFyLyv7lnyT-0" style="edgeStyle=elbowEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;startSize=0;" edge="1" parent="sd04ZcGO04d0r4a4xyYC-1" source="cbT5tKPhNns-2JHrHQaH-19" target="6AfAgsEVWo-XAAioYMO1-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3mmddQ8fIv7Eh7SYsy2y-0" value="Start" style="ellipse" vertex="1" parent="sd04ZcGO04d0r4a4xyYC-1">
+          <mxGeometry x="999" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3mmddQ8fIv7Eh7SYsy2y-1" value="新建" style="rounded=1;" vertex="1" parent="sd04ZcGO04d0r4a4xyYC-1">
+          <mxGeometry x="999" y="80" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3mmddQ8fIv7Eh7SYsy2y-2" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" source="3mmddQ8fIv7Eh7SYsy2y-0" target="3mmddQ8fIv7Eh7SYsy2y-1" parent="sd04ZcGO04d0r4a4xyYC-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3mmddQ8fIv7Eh7SYsy2y-3" value="Entry" style="rounded=1;" vertex="1" parent="sd04ZcGO04d0r4a4xyYC-1">
+          <mxGeometry x="999" y="160" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3mmddQ8fIv7Eh7SYsy2y-4" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" source="3mmddQ8fIv7Eh7SYsy2y-1" target="3mmddQ8fIv7Eh7SYsy2y-3" parent="sd04ZcGO04d0r4a4xyYC-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
