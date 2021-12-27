@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-27T05:46:19.156Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="WcuvicVppm-N3Fj5ZMk3" version="16.0.3" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-12-27T05:46:33.997Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="tmX_ckK-m7KxCrmsP6T2" version="16.0.3" type="github" pages="7">
   <diagram id="3ZHiPYB7j2dZCny19g73" name="任务表">
     <mxGraphModel dx="2946" dy="696" grid="1" gridSize="9" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1271,7 +1271,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="NqeenME5x2lHI4yUz4lD" name="构建平台">
-    <mxGraphModel dx="1292" dy="696" grid="1" gridSize="9" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1550" dy="835" grid="1" gridSize="9" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="sd04ZcGO04d0r4a4xyYC-0" />
         <mxCell id="sd04ZcGO04d0r4a4xyYC-1" parent="sd04ZcGO04d0r4a4xyYC-0" />
